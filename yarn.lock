@@ -1585,9 +1585,9 @@ express-handlebars@^3.0.0:
     object.assign "^4.0.3"
     promise "^7.0.0"
 
-express-recaptcha@^2.2.0:
-  version "2.2.0"
-  resolved "https://registry.yarnpkg.com/express-recaptcha/-/express-recaptcha-2.2.0.tgz#fb9aa4e14f5aa66fdda797a1be240b23784d30da"
+express-recaptcha@^2.3.0:
+  version "2.3.0"
+  resolved "https://registry.yarnpkg.com/express-recaptcha/-/express-recaptcha-2.3.0.tgz#6cff9557bb6a13dbd6b48efd7ed0785563f1e0b1"
 
 express-session@^1.15.5:
   version "1.15.5"
@@ -2292,9 +2292,9 @@ handlebars-helper-create-frame@^0.1.0:
     create-frame "^1.0.0"
     isobject "^3.0.0"
 
-handlebars-helpers@^0.9.6:
-  version "0.9.6"
-  resolved "https://registry.yarnpkg.com/handlebars-helpers/-/handlebars-helpers-0.9.6.tgz#b7fe5c051983d55b69898e36210ef4d8c79bd01b"
+handlebars-helpers@^0.9.8:
+  version "0.9.8"
+  resolved "https://registry.yarnpkg.com/handlebars-helpers/-/handlebars-helpers-0.9.8.tgz#d32ec2f041dab14ebe3caf5e0c23067a8b594ecc"
   dependencies:
     arr-flatten "^1.0.3"
     array-sort "^0.1.2"
@@ -3634,9 +3634,9 @@ node-status-codes@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/node-status-codes/-/node-status-codes-1.0.0.tgz#5ae5541d024645d32a58fcddc9ceecea7ae3ac2f"
 
-nodemailer@^4.0.1:
-  version "4.0.1"
-  resolved "https://registry.yarnpkg.com/nodemailer/-/nodemailer-4.0.1.tgz#b95864b07facee8287e8232effd6f1d56ec75ab2"
+nodemailer@^4.1.0:
+  version "4.1.0"
+  resolved "https://registry.yarnpkg.com/nodemailer/-/nodemailer-4.1.0.tgz#e3f76bcad7376bae44714552571f5b0674fe469f"
 
 nodemon@^1.10.2:
   version "1.11.0"
