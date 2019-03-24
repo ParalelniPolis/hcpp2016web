@@ -30,6 +30,7 @@ var env = process.env.NODE_ENV || 'development';
 app.locals.ENV = env;
 app.locals.ENV_DEVELOPMENT = env == 'development';
 app.locals.APP_NAME = 'Hackers Congress Paralelní Polis 2016';
+app.locals.GMAP_KEY = process.env.GMAP_KEY;
 
 var sessionSecret = process.env.SESSION_SECRET;
 
